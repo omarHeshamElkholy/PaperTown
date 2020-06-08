@@ -1,0 +1,82 @@
+body {
+  padding-top: 170px;
+  background-color: #0c0d0d;
+}
+.topxo {
+  background-color: #001a33;
+  position: absolute;
+}
+.sidexo {
+  background-color: #0c0d0d;
+}
+.sidexo :hover {
+  background-color: #0c0d0d;
+}
+.prodxo {
+  background-color: #0c0d0d;
+}
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100px;
+  width: 160px;
+}
+.itemxo {
+  color: wheat;
+  background-color: #001a33;
+  border-color: transparent;
+}
+.bottomxo {
+  color: wheat;
+}
+.jumboxo {
+  background-color: #001a33;
+  color: wheat;
+}
+.cat {
+  color: wheat;
+}
+.booksxo {
+  color: wheat;
+}
+hr {
+  border-color: #0c0d0d;
+}
+h3 {
+  color: wheat;
+}
+h4 {
+  color: wheat;
+}
+.descxo {
+  color: wheat;
+}
+.linksxo {
+  background-color: #0c0d0d;
+}
+a.list-group-item {
+  color: wheat;
+}
+h2,
+h1,
+th,
+td {
+  background-color: #0c0d0d;
+  color: wheat;
+}
+li > a {
+  color: wheat;
+}
+.bg-warning {
+  background-color: #0c0d0d;
+}
+label {
+  color: wheat;
+}
+.shop_cart {
+  width: 2em;
+  right: 0;
+  position: absolute;
+  float: right !important;
+}
